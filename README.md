@@ -1,6 +1,8 @@
 # IPL Score Predictor :india:
 ![GIF](readme_resources/ipl_teams.jpg)
 
+[Application link:](https://tata-ipl-score-predictor.herokuapp.com/)
+
 #### The IPL Score Predictor project is about predicting score of batting team.
 #### This web application have IPL 2022 teams where you can predict score of batting team.
 
